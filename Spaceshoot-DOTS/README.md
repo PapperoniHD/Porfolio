@@ -1,6 +1,6 @@
 # spaceshooterDOTS
 
-A Spaceshooter made with ECS in Unity
+A Spaceshooter made with ECS in Unity as an assignment for Futuregames
 
 Movement
 >Orientiation - A and D key >Shooting - Space Button
