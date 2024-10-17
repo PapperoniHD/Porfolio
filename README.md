@@ -1,2 +1,2 @@
 # Porfolio
-Code I've worked on
+Showcase of code I've written. :)
